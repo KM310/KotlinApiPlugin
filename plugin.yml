@@ -1,0 +1,4 @@
+name: KotlinAPI
+version: 1.0
+main: me.km310.kotlinapi.Main
+api-version: 1.20
